@@ -1,4 +1,4 @@
-# Welcome to my "Batalha-POO" Repository!
+# Welcome to my "OOP-Battle" Repository!
 Hey there! Welcome to my GitHub repository where I'll be practicing OOP. This repository is a personal playground for me to dive deep into the world of OOP and sharpen my problem-solving skills.
 
 # My Goals
